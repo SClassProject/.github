@@ -2,9 +2,9 @@
 <br><br>
 <h2> :school: 이화여자대학교 S-Class팀 구성원 :school: </h2>
 :lock: 사이버보안과 1814040 장현아<br>
-:bar_chart: 통계학과 1829032 이수빈<br>
 :lock: 사이버보안과 1871054 최예진<br>
-:heavy_division_sign: 수학과 1928030 전지은<br>
+:bar_chart: 통계학과 1829032 이수빈<br>
+:infinity: 수학과 1928030 전지은<br>
 
 <br><br>
 
