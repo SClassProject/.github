@@ -33,5 +33,5 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 :hammer_and_wrench: Tools<br>
-<img src="https://img.shields.io/badge/Visual Studio-007ACC?style=flat-square&logo=Visual Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
