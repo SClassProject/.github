@@ -92,7 +92,7 @@ AI와 메타버스를 이용한 강의 특화 플랫폼<br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></span>
 
-<h3> :clipboard:  </h3>
+<h3> :clipboard: Back-end & Library </h3>
 <span><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Agora-099DFD?style=flat-square&logo=Agora&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
