@@ -83,7 +83,7 @@ AI와 메타버스를 이용한 강의 특화 플랫폼<br>
 <br>
 
 
-<h2> :books: Tech Stack :books: </h2>
+<h2> :books: Tech Stacks :books: </h2>
 
 <h3> :globe_with_meridians: Language </h3>
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
